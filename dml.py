@@ -52,7 +52,7 @@ else:
             if response["statusCode"] == 0:
                 prize = response['content']['name']
                 print(f"\n账号{i}\n{prize}")
-                message += f"\n账号{i}\n{prize}"
+                message += f"\n{prize}"
             if response["statusCode"] != 0:
                 print(response)
                 err = response['errorMessage']
