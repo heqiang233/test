@@ -1,6 +1,7 @@
 '''
-author:阿慈 （在其基础上补全了一些任务）
-new Env('金杜丹小程序');
+author:阿慈
+在其基础上补全了一些任务。
+new Env('金牡丹小程序');
 变量名字JDD抓tianxin.jmd724.com域名下的access_token多号@
 '''
 
